@@ -1,11 +1,10 @@
 # Overview
 This repository contains a UI automation testing the Basic Calculator functionality website using:
 
-- https://testsheepnz.github.io/BasicCalculator.html ('Prototype' Calculator Build)
+- 'Prototype' Calculator Build (https://testsheepnz.github.io/BasicCalculator.html)
 - Python
-- pytest
 - Selenium WebDriver (Chrome & Firefox both are options)
-- Tests for both positive and negative scenarios
+- Pytest Tests for both positive and negative scenarios
 
 # Folder Structure
 NateHogsten-automation-assessment/
