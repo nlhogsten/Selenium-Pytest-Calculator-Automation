@@ -7,6 +7,7 @@ This repository contains a UI automation testing the Basic Calculator functional
 - Pytest Tests for both positive and negative scenarios
 
 # Folder Structure
+```
 NateHogsten-automation-assessment/
 │       
 ├── pytest.ini               # pytest configuration (logging)
@@ -22,6 +23,7 @@ NateHogsten-automation-assessment/
 │     └──pages/
 │         └── calculator_page.py   # Page object for the calculator UI
 │         └── math_operations.py   # Python mathematical functions: add, subtract, multiply, divide, concatenate
+```
 
 # Installation & Setup
 Create & activate virtual environment:
